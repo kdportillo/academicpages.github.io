@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "K. D. Portillo"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kevin Portillo"
 description              : &description "Computer Science undergradate at the University of Houston"
