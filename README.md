@@ -1,4 +1,4 @@
-### kdportillo.github.io
+# kdportillo.github.io
 This page serves the purpose of detailing my achievements and on-going work as I transition from my undergraduate career to industry or post-gradaute endeavors. As noted above, this repository was forked from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
 
 # Instructions for Forking
