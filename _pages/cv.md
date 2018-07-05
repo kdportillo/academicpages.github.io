@@ -11,49 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Science, University of Houston, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2018 - Present: Engineering Technician 1
+  * The Boeing Company
+  * Internship through the San Jacinto College and LZ Technology "Get a Glimpse" program
+  * Prepared, validated, and expedited testing procedures for the ISS' Joint Station LAN Network
+  * Implemented an online Database tool for managing IP addresses on-board the space station
+
+* May 2017 - Present: Hardware Specialist
+  * University of Houston Dept. of Physics
+  * Designed, tested, and integrated a flight computer on-board a large payload for data collection and analysis
+  * Collected microorganisms and analyzed cosmic particles in the Stratosphere
+  * Documentation and source code can be found [here](https://github.com/UH-MiniPix-Collaboration}{github.com/UH-MiniPix-Collaboration)
+  * Principal Investigator: Dr. Andrew Renshaw
+
+* May 2017 - Dec 2017: REU Supplement
+  * University of Houston, Dept. of Computer Science
+  * Transitioned shared research tasks into competitions for CodaLab, an online cloud computing center
+  * Created and maintained competitions for graduate course through CodaLab
+  * Composed testing and training data for advanced NLP graduate course assignments
+  * Supervisor: Dr. Thamar Solorio
   
+* Jan 2017 - May 2017: Undergraduate Teaching Assistant
+  * University of Houston, Dept. of Computer Science
+  * Explained introductory concepts of Computer Science to novice students in Python
+  * Created, graded and delivered exams, quizzes, homeworks and programming assignments
+  * Provided extensive feedback to students on their submissions
+  * Supervisor: Dr. Thamar Solorio
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Java
+  * C++
+  * R
+  * mySQL
+* Paradigms & Concepts
+  * Statistical Programming
+  * Object Oriented Programming
+  * Multi-Threaded Programming
+  * Multi-Socket Programming
+  * Functional Programming
+  * Test Driven Design
+  * Unit Testing
+  * Version Control
+* Bilingual: Spanish & English
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Dean's List
+* Academic Excellence Scholar
+* Top 10% Scholar
+* S-Stem Scholar
+* NSM Ambassador
+* STEM Peer Mentor
+* ASUH Web Master
+* Daily Cougar Field Photographer
