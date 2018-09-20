@@ -10,6 +10,7 @@ location: "Houston, USA"
 
 Dr. Thamar Solorio was the professor for the course where I was one of four TAs selected for the class.
 During my time as a TA I explained introductory concepts of Computer Science to novice students in Python. I also created, graded and delivered exams, quizzes, homeworks and programming assignments.
+
 Heading 1
 ======
 
